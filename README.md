@@ -1,4 +1,4 @@
-# PWJSPracaDomowa
+# HTML5PracaDomowa
 Zadanie drag&drop
 - przygotować stronę umożliwiającą wczytywanie obrazków do obiektu canvas (można to zrobić w oparciu o kody przykładowe z katalogu /Samples)
 - strona ma obsługiwać drag&drop obrazka z dysku użytkownika do aplikacji
